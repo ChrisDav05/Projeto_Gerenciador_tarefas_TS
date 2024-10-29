@@ -1,10 +1,9 @@
 GERENCIADOR DE TAREFAS_TS
 
-
 Este projeto é um sistema de gerenciamento de tarefas em TypeScript que permite criar, listar, editar, marcar como concluídas, remover e pesquisar tarefas. 
 Cada tarefa inclui um título, descrição, data de criação, data de vencimento, prioridade e status.
-
-ESTRUTURA DE DADOS:
+___________________________________________________________________________________________________________________________________________________________________________________________
+ESTRUTURA DE DADOS
 
 As tarefas são representadas pela interface Exercicio, que inclui os seguintes atributos:
 
@@ -19,8 +18,8 @@ Duas listas são usadas para gerenciar as tarefas:
 
 tarefas: Lista de tarefas pendentes.
 tarefas_concluidas: Lista de tarefas concluídas.
-
-FUNCIONALIDADES:
+___________________________________________________________________________________________________________________________________________________________________________________________
+FUNCIONALIDADES
 
 Adicionar Tarefa (adicionar):
 Adiciona uma nova tarefa à lista tarefas. Solicita título, descrição (opcional), data de vencimento e prioridade. Verifica se todos os campos obrigatórios são preenchidos.
