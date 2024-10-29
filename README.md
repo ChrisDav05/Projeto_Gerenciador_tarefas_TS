@@ -1,4 +1,4 @@
-GERENCIADOR DE TAREFAS_TS
+GERENCIADOR DE TAREFAS - PROJETO
 
 Este projeto é um sistema de gerenciamento de tarefas em TypeScript que permite criar, listar, editar, marcar como concluídas, remover e pesquisar tarefas. 
 Cada tarefa inclui um título, descrição, data de criação, data de vencimento, prioridade e status.
