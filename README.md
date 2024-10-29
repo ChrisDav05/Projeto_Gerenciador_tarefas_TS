@@ -8,10 +8,15 @@ ESTRUTURA DE DADOS
 As tarefas são representadas pela interface Exercicio, que inclui os seguintes atributos:
 
 titulo: Título da tarefa
+
 descricao: Descrição da tarefa
+
 dataVenc: Data de vencimento no formato xx/xx/xxxx
+
 prioridade: Nível de prioridade da tarefa (Baixa, Média ou Alta)
+
 status: Status da tarefa (Pendente ou Concluída)
+
 dataCriacao: Data de criação no formato xx/xx/xxxx
 
 Duas listas são usadas para gerenciar as tarefas:
