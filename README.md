@@ -17,6 +17,7 @@ dataCriacao: Data de criação no formato xx/xx/xxxx
 Duas listas são usadas para gerenciar as tarefas:
 
 tarefas: Lista de tarefas pendentes.
+
 tarefas_concluidas: Lista de tarefas concluídas.
 ___________________________________________________________________________________________________________________________________________________________________________________________
 FUNCIONALIDADES
